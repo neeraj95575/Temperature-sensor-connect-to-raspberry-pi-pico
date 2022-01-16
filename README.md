@@ -1,3 +1,3 @@
 # Temperature-sensor-connect-to-raspberrt-pi-pico
 
-<img src="your_relative_path_here" width="350" title="hover text">
+<img src="https://github.com/neeraj95575/Temperature-sensor-connect-to-raspberrt-pi-pico/blob/main/img.png" />
